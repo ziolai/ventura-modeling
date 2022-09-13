@@ -88,19 +88,21 @@ e. [Design strategies for mitigating passenger door holding behavior on suburban
 These models will be explained in more details in the following. 
 
 ## Section 4:/ Point Mass Systems
-See [notebook](./point-mass-systems.ipynb). 
+See [notebook](./jupyter-notebooks/point-mass-systems.ipynb). 
+
+Requires extension to non-linear spring and damper models.
 
 ## Section 5:/ Rigid Multi Body Models 
-See [notebook](./rigid-body-models.ipynb).
+See [notebook](./jupyter-notebooks/rigid-body-models.ipynb).
 
 ## Section 6:/ Flexible Single Body Models 
-See [notebook](./flexible-single-body.ipynb).
+See [notebook](./jupyter-notebooks/flexible-single-body.ipynb).
 
 ## Section 7:/ Flexible Multi Body Models 
-See [notebook](./flexible-multi-body.ipynb).
+See [notebook](./jupyter-notebooks/flexible-multi-body.ipynb).
 
 ## Section 8:/ Analysis of Data of Measured Acceleration
-See [notebook](./data-analysis.ipynb).
+See [notebook](./jupyter-notebooks/data-analysis.ipynb).
 
 ## Ask Ventura 
 1. condition of the road during test;
@@ -120,6 +122,7 @@ See [notebook](./data-analysis.ipynb).
 1. [Comsol Multiphysics](www.comsol.com), [random vibration test of a motherboard](https://www.comsol.com/model/random-vibration-test-of-a-motherboard-75781) and [vibration in a washing machine assembly](https://www.comsol.com/model/vibration-in-a-washing-machine-assembly-19957); [response spectral analysis](https://www.comsol.com/multiphysics/response-spectrum-analysis); 
 2. [Monolithai](www.monolithai.com), [BEAMNG simulator](https://documentation.beamng.com) object on car in various gravitational fields on this [LinkedInn post](https://www.linkedin.com/posts/richard-ahlfeld-36111958_crashtest-physics-engineering-activity-6954810002096144385-QYSV?utm_source=linkedin_share&utm_medium=member_desktop_web);  
 3. [LS-Dyna](https://www.dynamore.de/en), this [LinkedInn post](https://www.linkedin.com/feed/update/urn:li:activity:6956680341457674240/) and [pendulum model](https://www.dynamore.de/en/products/models/pendulum) for impact on glass door; other reference for impact on glass window [here](https://www.sciencedirect.com/science/article/pii/S0734743X06001138?casa_token=qT2sT3s0F4wAAAAA:heuP8twh1fmz4li-VurOD_llAhNBP9seTjQSiOEGjSEhKV29EbNI5YVgZNGxsBQZgqjlz20rhxY); 
+4. [SolidWorks](www.solidworks.com/simulate) with example of [vibration analysis](https://www.solidworks.com/media/solidworks-simulation-vibration-analysis); 
 
 
 ```julia
