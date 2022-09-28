@@ -58,6 +58,13 @@ Examples of static load cases include:
 1. vibrations of driving bus transmitted to door for various road conditions (smooth and bumpy road); 
 2. extend from deterministic to random vibrations; 
 
+### Possible Divide-and-Conquer Strategy 
+
+Strategy in three steps: 
+1. assume door to rigid and door suspension system to act as a set of springs and dampers. Then all of the external force (either static or transient) applied of the door will result in a rigid motion of the door; 
+2. assume door to flexible and that door in clamped to the frame of the bus. Then all of the external force applied to the door will result in a deformation of the door; 
+3. combination of both of above; 
+
 <div>
 <img src="./figures/simulation-von-Mises-stress.jpg" width=200 />
 <center> Figure 4: Sample result of a finite element simulation of von Misses stress in door and suspension system. More results are shown in the references.  
@@ -68,9 +75,18 @@ Examples of static load cases include:
 
 We intend to use the programming language [Julia](julialang.org) as coding environment. The motivation for adopting Julia will hopefully become clear as the course evolves.  
 
-## Section 3:/ Approach 
-In this assignment we will build 
-1. find recent (max 15 years old) literature that is relevant to this project: explain what you like about the paper and why it is relevant to this project: examples include 
+## Section 3:/ Schedule for the week 
+
+1. Monday, November 12th: Introduction - Orientation; 
+2. Tuesday, November 13th, morning: divisions in group; 
+3. Tuesday, November 13th, afternoon through Friday, November 19th, morning: work on the assignment in groups;
+4. Friday, November 19th, afternoon: documentation of the week;  
+
+## Section 4:/ Overall Approach 
+
+We plan to develop the assignment in various directions as outlined below. 
+
+1. Find recent (max 15 years old) literature that is relevant to this project. Explain what you like about the paper and why it is relevant to this project. Examples are given below. The list can be extended with literature on modeling of impact on plates, multi-material plates, (non-) linear elastic deformations, random vibrations and treatment of measured data; 
 
 a. [Weight optimization and structural analysis of an electric bus chassis frame](https://www.sciencedirect.com/science/article/pii/S2214785320355140?casa_token=HlzlJ0993vUAAAAA:q5hjucXOSQ-QCBk4f7RWKF72Od2-pR9jh7EkY3XdojPWX0jjcEOU_4RWW7IKLDFIqy_NRx7vxWs): mode shape, steel vs. alumunium; 
 
@@ -87,21 +103,21 @@ e. [Design strategies for mitigating passenger door holding behavior on suburban
 4. analysis of recorded measured acceleration;
 These models will be explained in more details in the following. 
 
-## Section 4:/ Point Mass Systems
+## Section 5:/ Point Mass Systems
 See [notebook](./jupyter-notebooks/point-mass-systems.ipynb). 
 
 Requires extension to non-linear spring and damper models.
 
-## Section 5:/ Rigid Multi Body Models 
+## Section 6:/ Rigid Multi Body Models 
 See [notebook](./jupyter-notebooks/rigid-body-models.ipynb).
 
-## Section 6:/ Flexible Single Body Models 
+## Section 7:/ Flexible Single Body Models 
 See [notebook](./jupyter-notebooks/flexible-single-body.ipynb).
 
-## Section 7:/ Flexible Multi Body Models 
+## Section 8:/ Flexible Multi Body Models 
 See [notebook](./jupyter-notebooks/flexible-multi-body.ipynb).
 
-## Section 8:/ Analysis of Data of Measured Acceleration
+## Section 9:/ Analysis of Data of Measured Acceleration
 See [notebook](./jupyter-notebooks/data-analysis.ipynb).
 
 ## Ask Ventura 
