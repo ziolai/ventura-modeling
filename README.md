@@ -71,9 +71,14 @@ Strategy in three steps:
     </center>
 </div>
 
-### Software 
+#### Julia Programming Language 
 
 We intend to use the programming language [Julia](julialang.org) as coding environment. The motivation for adopting Julia will hopefully become clear as the course evolves.  
+
+- Elementary introduction: [Thinking Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html);
+- Aalto Short Course: [julia-introduction](https://github.com/AaltoRSE/julia-introduction); 
+- Video Collection by Chris Rackauckas: [link](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa) 
+- Pointer to lots of goodies: [Nouvelles Julia](https://pnavaro.github.io/NouvellesJulia/pages/2022_03.html); 
 
 ## Section 3:/ Schedule for the week 
 
