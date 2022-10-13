@@ -1,6 +1,7 @@
 # Mathematical Modeling and Numerical Simulation of Driving Busses and Vibrating Doors
 
-## ATHENS Course on the Finite Element Method 
+## TUD01 ATHENS Course: 
+## Finite Element  Modeling of Vibrating Elastic Structures
 ## November 12th - 19th, 2022  
 
 ## Section 1:/ Introduction
@@ -80,12 +81,28 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 - Video Collection by Chris Rackauckas: [link](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa) 
 - Pointer to lots of goodies: [Nouvelles Julia](https://pnavaro.github.io/NouvellesJulia/pages/2022_03.html); 
 
-## Section 3:/ Schedule for the week 
+## Section 3:/ Arrangements for the week 
 
-1. Monday, November 12th: Introduction - Orientation; 
-2. Tuesday, November 13th, morning: divisions in group; 
-3. Tuesday, November 13th, afternoon through Friday, November 19th, morning: work on the assignment in groups;
-4. Friday, November 19th, afternoon: documentation of the week;  
+### Schedule for the week 
+
+1. Monday, November 14th: Introduction - Orientation; 
+2. Tuesday, November 15th, morning: divisions in group; 
+3. Tuesday, November 15th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
+4. Friday, November 18th, afternoon: documentation of the week;
+
+### Lecture rooms 
+
+1. Monday, November 14th: 3mE hall G
+2. Tuesday, November 15th: Fellowship instruction room 5
+3. Wednesday, November 16th: 3mE hall G
+4. Thursday, November 17th: Echo hall B2
+5. Friday, November 18th: Fellowship projectroom 6
+
+### Course Assessment 
+
+1. no formal exam; 
+2. attendance is compulsory;  
+3. assessment based on active participation in the course; 
 
 ## Section 4:/ Overall Approach 
 
@@ -113,13 +130,15 @@ See [notebook](./jupyter-notebooks/point-mass-systems.ipynb).
 
 Requires extension to non-linear spring and damper models.
 
-## Section 6:/ Rigid Multi Body Models 
+## Section 6:/ Rigid Multi Body Models (no Deformations)
 See [notebook](./jupyter-notebooks/rigid-body-models.ipynb).
 
-## Section 7:/ Flexible Single Body Models 
+## Section 7:/ Flexible Single Body Models (no Rigid Displacements) 
+
 See [notebook](./jupyter-notebooks/flexible-single-body.ipynb).
 
 ## Section 8:/ Flexible Multi Body Models 
+## (both Deformation and Rigid Body Displacements) 
 See [notebook](./jupyter-notebooks/flexible-multi-body.ipynb).
 
 ## Section 9:/ Analysis of Data of Measured Acceleration
