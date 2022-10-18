@@ -87,8 +87,9 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 
 1. Monday, November 14th: Introduction - Orientation; 
 2. Tuesday, November 15th, morning: divisions in group; 
-3. Tuesday, November 15th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
-4. Friday, November 18th, afternoon: documentation of the week;
+3. Tuesday, November 15th, afternoon: guest lecture by Frank de Pont (Comsol Multiphysics Benelux Office)
+4. Wednesday, November 16th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
+5. Friday, November 18th, afternoon: documentation of the week;
 
 ### Lecture rooms 
 
@@ -125,23 +126,26 @@ e. [Design strategies for mitigating passenger door holding behavior on suburban
 4. analysis of recorded measured acceleration;
 These models will be explained in more details in the following. 
 
-## Section 5:/ Point Mass Systems
+## Section 5:/ Material Coefficients 
+List here in Lame parameters and Poisson ratio for construction steel, various types of glass and rubber sealing.  
+
+## Section 6:/ Point Mass Systems
 See [notebook](./jupyter-notebooks/point-mass-systems.ipynb). 
 
 Requires extension to non-linear spring and damper models.
 
-## Section 6:/ Rigid Multi Body Models (no Deformations)
+## Section 7:/ Rigid Multi Body Models (no Deformations)
 See [notebook](./jupyter-notebooks/rigid-body-models.ipynb).
 
-## Section 7:/ Flexible Single Body Models (no Rigid Displacements) 
+## Section 8:/ Flexible Single Body Models (no Rigid Displacements) 
 
 See [notebook](./jupyter-notebooks/flexible-single-body.ipynb).
 
-## Section 8:/ Flexible Multi Body Models 
+## Section 9:/ Flexible Multi Body Models 
 ## (both Deformation and Rigid Body Displacements) 
 See [notebook](./jupyter-notebooks/flexible-multi-body.ipynb).
 
-## Section 9:/ Analysis of Data of Measured Acceleration
+## Section 10:/ Analysis of Data of Measured Acceleration
 See [notebook](./jupyter-notebooks/data-analysis.ipynb).
 
 ## Ask Ventura 
