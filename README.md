@@ -85,11 +85,12 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 
 ### Schedule for the week 
 
-1. Monday, November 14th: Introduction - Orientation; 
-2. Tuesday, November 15th, morning: divisions in group; 
-3. Tuesday, November 15th, afternoon: guest lecture by Frank de Pont (Comsol Multiphysics Benelux Office)
-4. Wednesday, November 16th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
-5. Friday, November 18th, afternoon: documentation of the week;
+1. Monday, November 14th: 11:45 - 12:15: Opening Session at Faculty of Mechanical, Maritime and Materials Engineering (3mE)Lecture Hall C-Daniel Bernoulli (building 34 at the campus map)
+2. Monday, November 14th, afternoon: Introduction - Read and discuss material - Run first models in Julia - Orientation; 
+3. Tuesday, November 15th, morning: divisions in group; 
+4. Tuesday, November 15th, afternoon: guest lecture by Frank de Pont (Comsol Multiphysics Benelux Office)
+5. Wednesday, November 16th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
+6. Friday, November 18th, afternoon: documentation of the week;
 
 ### Lecture rooms 
 
