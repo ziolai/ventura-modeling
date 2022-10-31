@@ -72,6 +72,16 @@ Strategy in three steps:
     </center>
 </div>
 
+### An Alternative Door Design 
+
+To stimulate the discussion, we show below an alternative door design. 
+
+<div>
+<img src="./figures/ alternative-door-design.jpg" width=200 />
+<center> Figure 5: An alternative door design wih cross bar.  
+    </center>
+</div>
+
 #### Julia Programming Language 
 
 We intend to use the programming language [Julia](julialang.org) as coding environment. The motivation for adopting Julia will hopefully become clear as the course evolves.  
