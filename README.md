@@ -38,7 +38,7 @@ The door system is attached to the bus portal (door opening) via a door suspensi
 3. a top middle attachment point of the door leaf to the top horizontal bar. This is encircled in red in the left most figure of Figure 2. This connection is referred to as the door arm. The doorarm carries the main weight of the door. It can be forced to glide across the top horizontal bar by an electro-mechanically steering system. This gliding causes the doors to be opened or closed. The dimension and shape of the door arm depend on the bus;  
 4. a bottom left/right attachment point of the door leaf to the vertical bar. This is encircled in red in the left most figure of Figure 2. These attachment points provide support for the sliding motion of the bus doors. 
 
-More information on the door suspension system can be found in the [description-PS2-door-system](https://mega.nz/file/XU8lFb4T#empMW7_wm3SGOHWvuHrcAE1iY-BhSSgMZ9Ya6Vo87S0). Additional information can be found in the [quick manual](https://mega.nz/file/vE9SlCJa#9o0pACdjnxWZuV7DD75J0x43TmMaHlxqlc6PwDk6s4Q) and the [maintenance manual](https://mega.nz/file/DIlBgDjY#NQV-jAJ4bRnPlDTHW_9ToBH_NLHCA_NdSRnZBGJqjA8) 
+More information on the door suspension system can be found in the [description-PS2-door-system](https://mega.nz/file/XU8lFb4T#empMW7_wm3SGOHWvuHrcAE1iY-BhSSgMZ9Ya6Vo87S0). 
 
 <div>
 <img src="./figures/door-suspension-and-drive.jpg" width=200 />
