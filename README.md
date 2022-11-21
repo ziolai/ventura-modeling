@@ -2,7 +2,7 @@
 
 ## TUD01 ATHENS Course: 
 ## Finite Element  Modeling of Vibrating Elastic Structures
-## November 12th - 19th, 2022  
+## March 11th - 18th, 2023  
 
 ## Section 1:/ Introduction
 
@@ -78,7 +78,7 @@ To stimulate the discussion, we show below an alternative door design.
 
 <div>
 <img src="./figures/ alternative-door-design.jpg" width=200 />
-<center> Figure 5: An alternative door design wih cross bar.  
+<center> Figure 5: An alternative door design with cross bar.  
     </center>
 </div>
 
