@@ -95,20 +95,13 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 
 ### Schedule for the week 
 
-1. Monday, November 14th: 11:45 - 12:15: Opening Session at Faculty of Mechanical, Maritime and Materials Engineering (3mE)Lecture Hall C-Daniel Bernoulli (building 34 at the campus map)
-2. Monday, November 14th, afternoon: Introduction - Read and discuss material - Run first models in Julia - Orientation; 
-3. Tuesday, November 15th, morning: divisions in group; 
-4. Tuesday, November 15th, afternoon: guest lecture by Frank de Pont (Comsol Multiphysics Benelux Office)
-5. Wednesday, November 16th, afternoon through Friday, November 18th, morning: work on the assignment in groups;
-6. Friday, November 18th, afternoon: documentation of the week;
-
 ### Lecture rooms 
 
-1. Monday, November 14th: 3mE hall G
-2. Tuesday, November 15th: Fellowship instruction room 5
-3. Wednesday, November 16th: 3mE hall G
-4. Thursday, November 17th: Echo hall B2
-5. Friday, November 18th: Fellowship projectroom 6
+1. Monday, March 13th: [Applied Sciences Studio Classsroom 3](https://esviewer.tudelft.nl/space/102/)
+2. Tuesday, March 14th: [Civil Engineering and Geosciences Project Room 1.33](https://esviewer.tudelft.nl/space/110/)
+3. Wednesday, March 15th: [Applied Sciences Studio Classsroom 3](https://esviewer.tudelft.nl/space/102/) 14:00 - 16:00 : Intro to Comsol Multiphysics  
+4. Thursday, March 16th: [Applied Sciences Studio Classsroom 3](https://esviewer.tudelft.nl/space/102/)
+5. Friday, March 17th: [Applied Sciences Studio Classsroom 2](https://esviewer.tudelft.nl/space/101/)
 
 ### Course Assessment 
 
@@ -168,10 +161,11 @@ See [notebook](./jupyter-notebooks/data-analysis.ipynb).
 
 ### Work by previous students 
 
-1. Report ATHENS Student November 2022 [report](https://github.com/natan-ber/FEM-bus-door/)
-2. Report Bachelor Project Lisette de Bruin [report](https://mega.nz/file/qZljDZAD#xkkAFuHa3g6_LbowJvlTOZP37fdzgC2iV2VIXSp1TyY); 
-3. Report Advanced Modeling 2021 [report](https://mega.nz/file/GAVBkZxQ#7_wjWank4pVZAal1j-LS5z9IyPNL_6KZcYJN3H2z7EY); 
-4. Report Advanced Modeling 2020 [report](https://mega.nz/file/yUszGIRS#18XzH3jn6Ph7Y5ZgAGA6F19dMhYg17dmrNHEVqnSc1I); 
+1. Report by bachelor students January 2023 [report](https://mega.nz/file/fclAzLyJ#K2occvQ4l0BH0zvq83sZ9cpEgALVLSkKv_PLrZ_23gk) and the corresponding [code](https://github.com/jellejurre/BusDoors);
+2. Report ATHENS Student November 2022 [report](https://github.com/natan-ber/FEM-bus-door/)
+3. Report Bachelor Project Lisette de Bruin [report](https://mega.nz/file/qZljDZAD#xkkAFuHa3g6_LbowJvlTOZP37fdzgC2iV2VIXSp1TyY); 
+4. Report Advanced Modeling 2021 [report](https://mega.nz/file/GAVBkZxQ#7_wjWank4pVZAal1j-LS5z9IyPNL_6KZcYJN3H2z7EY); 
+5. Report Advanced Modeling 2020 [report](https://mega.nz/file/yUszGIRS#18XzH3jn6Ph7Y5ZgAGA6F19dMhYg17dmrNHEVqnSc1I); 
 
 ### Simulation software
 
