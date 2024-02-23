@@ -103,11 +103,12 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 3. Friday, November 24th: morning: round-up of work. Afternoon: final presentations. 
 
 ### Lecture rooms 
-The course will be held at Ecole National Superieur d'Arts et Metier ([ENSAM](https://artsetmetiers.fr/en)) in Paris whose address is: 155 Boulevard de l'Hôpital, 75013 Paris. 
+1. Monday, March 18th: 13:00 - 17:00 in TBM-C 
+2. Tuesday, March 19th: 09:00 - 12:30 in Echo-B and 13:30 - 17:00 Flux-A 
+3. Wednesday, March 20th: 09:00 - 12:30 in TBM-D and 13:30 - 17:00 TBM-C 
+4. Thursday, March 21st: 09:00 - 12:30 in Echo-B and 13:30 - 17:00 TN-Classroom 12 
+5. Friday, March 22nd: 09:00 - 12:30 in Echo-Arena and 13:30 - 17:00 Echo-Arena  
 
-ENSAM can be reached using metro via Place d'Italie on line 6 or Campo-Formio on line 5. 
-
-The course will take place in lecture room P each day from 09:00 to 17:00.  
 
 ### Course Assessment 
 1. no formal exam; 
