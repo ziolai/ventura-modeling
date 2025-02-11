@@ -163,15 +163,17 @@ See [notebook](./jupyter-notebooks/data-analysis.ipynb).
 
 ### Work by previous students 
 
+1. Report Part A by bachelor students minor CSE January 2025 [report Part-A](https://mega.nz/file/nQdnBTBJ#9EX4zv-aJWJ9YT-dXEcuFGB7gm-6qCgxQLS53wxVTT8)
+1. Report Part B by bachelor students minor CSE January 2025 [report Part-B](https://mega.nz/file/PVFTXTzL#gifFMJf6IVWm-L6JUQvDlxTsySc2RoP3Lm2h9YuThHE) and [code](https://github.com/ishaanjain27/ventura-bus-door)
 1. Report of internship by Anouchka Desmettre (MATMECA INP Bordeaux) September 2024 [code](https://github.com/AnouchkaDESMETTRE/TU_Delft_Internship/tree/main) 
-2. Report Part A by bachelor students minor CSE January 2024 [report Part-A](https://mega.nz/file/qJF2yJxA#M7ndojWlwAtmAJGXrWd2dOZHBOdY450oU28eNKyyVi0)
-3. Report Part B by bachelor students minor CSE January 2024  [report Part-B](https://mega.nz/file/uNNFWBZC#pf0N8yoq6EK9wg87dvxU--w1tqHs7AsJOZz3Ks7LTnw) and [code](https://github.com/tdrAndrei/BusDoor_modeling2023/tree/main)
-4. [Code](https://github.com/Youkrid/Youkrid.github.io) by Yann Oukrid (MATMECA INP Bordeaux) September 2023 
-5. Report by bachelor students minor CSE January 2023 [report](https://mega.nz/file/fclAzLyJ#K2occvQ4l0BH0zvq83sZ9cpEgALVLSkKv_PLrZ_23gk) and the corresponding [code](https://github.com/jellejurre/BusDoors); 
-6. Report ATHENS Student November 2022 [report](https://github.com/natan-ber/FEM-bus-door/)
-7. Report Bachelor Project Lisette de Bruin [report](https://mega.nz/file/qZljDZAD#xkkAFuHa3g6_LbowJvlTOZP37fdzgC2iV2VIXSp1TyY); 
-8. Report Advanced Modeling 2021 [report](https://mega.nz/file/GAVBkZxQ#7_wjWank4pVZAal1j-LS5z9IyPNL_6KZcYJN3H2z7EY); 
-9. Report Advanced Modeling 2020 [report](https://mega.nz/file/yUszGIRS#18XzH3jn6Ph7Y5ZgAGA6F19dMhYg17dmrNHEVqnSc1I); 
+1. Report Part A by bachelor students minor CSE January 2024 [report Part-A](https://mega.nz/file/qJF2yJxA#M7ndojWlwAtmAJGXrWd2dOZHBOdY450oU28eNKyyVi0)
+1. Report Part B by bachelor students minor CSE January 2024  [report Part-B](https://mega.nz/file/uNNFWBZC#pf0N8yoq6EK9wg87dvxU--w1tqHs7AsJOZz3Ks7LTnw) and [code](https://github.com/tdrAndrei/BusDoor_modeling2023/tree/main)
+1. [Code](https://github.com/Youkrid/Youkrid.github.io) by Yann Oukrid (MATMECA INP Bordeaux) September 2023 
+1. Report by bachelor students minor CSE January 2023 [report](https://mega.nz/file/fclAzLyJ#K2occvQ4l0BH0zvq83sZ9cpEgALVLSkKv_PLrZ_23gk) and the corresponding [code](https://github.com/jellejurre/BusDoors); 
+1. Report ATHENS Student November 2022 [report](https://github.com/natan-ber/FEM-bus-door/)
+1. Report Bachelor Project Lisette de Bruin [report](https://mega.nz/file/qZljDZAD#xkkAFuHa3g6_LbowJvlTOZP37fdzgC2iV2VIXSp1TyY); 
+1. Report Advanced Modeling 2021 [report](https://mega.nz/file/GAVBkZxQ#7_wjWank4pVZAal1j-LS5z9IyPNL_6KZcYJN3H2z7EY); 
+1. Report Advanced Modeling 2020 [report](https://mega.nz/file/yUszGIRS#18XzH3jn6Ph7Y5ZgAGA6F19dMhYg17dmrNHEVqnSc1I); 
 
 ### Simulation software
 
