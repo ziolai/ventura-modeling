@@ -2,7 +2,7 @@
 
 ## TUD01 ATHENS Course: 
 ## Finite Element  Modeling of Vibrating Elastic Structures
-## November 18th - 22nd, 2024 - ENSAM - Paris 
+## November 17th - 21st, 2025 - TU Delft  
 
 ## Section 1:/ Introduction
 
