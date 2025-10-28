@@ -1,7 +1,7 @@
 # Mathematical Modeling and Numerical Simulation of Driving Busses and Vibrating Doors
 
 ## TUD01 ATHENS Course: 
-## Finite Element  Modeling
+## Finite Element  Modeling of Vibrating Elastic Structures
 ## November 17th - 21st, 2025 - TU Delft  
 
 ## Section 1:/ Introduction
@@ -87,7 +87,6 @@ To stimulate the discussion, we show below an alternative door design.
 We intend to use the programming language [Julia](julialang.org) as coding environment. The motivation for adopting Julia will hopefully become clear as the course evolves.  
 
 - Elementary introduction: [Thinking Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html);
-- Course: [Scientific-Programming-in-Julia](https://juliateachingctu.github.io/Scientific-Programming-in-Julia/stable/);
 - Aalto Short Course: [julia-introduction](https://github.com/AaltoRSE/julia-introduction); 
 - Video Collection by Chris Rackauckas: [link](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa) 
 - Pointer to lots of goodies: [Nouvelles Julia](https://pnavaro.github.io/NouvellesJulia/pages/2022_03.html); 
@@ -105,7 +104,9 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 
 ### Lecture rooms 
 
-The course will take place at the TU Delft. Exact room location will soon be communicated.  
+<div>
+<img src="./figures/lecture_rooms_athens_november_2025.png" width=700 />
+</div>
 
 ### Course Assessment 
 1. no formal exam; 
