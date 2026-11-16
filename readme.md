@@ -2,7 +2,7 @@
 
 ## TUD01 ATHENS Course: 
 ## Finite Element  Modeling of Vibrating Elastic Structures
-## November 17th - 21st, 2025 - TU Delft  
+## November 16th - 20th, 2026 - TU Delft  
 
 ## Section 1:/ Introduction
 
@@ -104,10 +104,11 @@ We intend to use the programming language [Julia](julialang.org) as coding envir
 
 ### Lecture rooms 
 
-<div>
-<img src="./figures/lecture_rooms_athens_november_2025.png" width=700 />
-</div>
-
+1. Monday November 16th: 13:30 tot 17:00 - Collegezaal G
+2. Tuesday November 17th: 09:00 tot 12:00 – zaal M and 13:30 tot 17:00 - Collegezaal F
+3. Wednesday November 18th: 09.00 – 17.00 – Flux hall D
+4. Thursday November 19th: 09:00 tot 12:00 – Collegezaal G and 13:30 tot 17:00 - Flux hall D
+5. Friday November 20th: 09:00 tot 12:00 – Collegezaal Boole and 13:30 tot 17:00 - Flux hall A
 ### Course Assessment 
 1. no formal exam; 
 2. attendance is compulsory;  
